@@ -4,5 +4,9 @@
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="netty-basic_main" target="1.10" />
+      <module name="netty-basic_test" target="1.10" />
+    </bytecodeTargetLevel>
   </component>
 </project>
