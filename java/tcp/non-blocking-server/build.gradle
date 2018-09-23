@@ -1,0 +1,36 @@
+plugins {
+    id 'java'
+    id 'idea'
+}
+
+group 'com.jaeyeonling.study'
+version '0.0.1'
+
+ext {
+    javaVersion = 10
+    versions = [
+            'junit'         : '4.+',
+            'lombok'        : '1.+',
+            'logback'       : '1.+',
+            'slf4j'         : '1.+',
+    ]
+}
+
+sourceCompatibility = javaVersion
+targetCompatibility = javaVersion
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: versions['junit']
+
+    compileOnly group: 'org.projectlombok', name: 'lombok', version: versions['lombok']
+
+    compile group: 'ch.qos.logback', name: 'logback-classic', version: versions['logback']
+    compile group: 'ch.qos.logback', name: 'logback-core', version: versions['logback']
+
+    compile group: 'org.slf4j', name: 'slf4j-api', version: versions['slf4j']
+    compile group: 'org.slf4j', name: 'jcl-over-slf4j', version: versions['slf4j']
+}
