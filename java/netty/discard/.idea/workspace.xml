@@ -1,7 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd828209-a9b9-4fe7-8d56-46f40677a1b7" name="Default Changelist" comment="" />
+    <list default="true" id="bd828209-a9b9-4fe7-8d56-46f40677a1b7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/.gradle/4.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/.gradle/vcsWorkingDirs/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/out/production/classes/com/jaeyeonling/study/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/out/production/classes/com/jaeyeonling/study/server/BlockingServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/out/production/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/src/main/java/com/jaeyeonling/study/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/src/main/java/com/jaeyeonling/study/server/BlockingServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/blocking-server/src/main/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/.gradle/4.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/.gradle/vcsWorkingDirs/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/out/production/classes/com/jaeyeonling/study/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/out/production/classes/com/jaeyeonling/study/server/NonBlockingServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/out/production/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/src/main/java/com/jaeyeonling/study/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/src/main/java/com/jaeyeonling/study/server/NonBlockingServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tcp/non-blocking-server/src/main/resources/logback.xml" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -56,12 +114,13 @@
         <counts>
           <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="3" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gradle" value="2" />
+          <entry key="gradle" value="3" />
           <entry key="log" value="1" />
           <entry key="xml" value="1" />
         </counts>
@@ -69,7 +128,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="ANSI Aware" value="1" />
-          <entry key="Groovy" value="2" />
+          <entry key="Groovy" value="3" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -91,11 +150,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/settings.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -429,11 +497,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="66" />
-    <option name="y" value="160" />
-    <option name="width" value="1680" />
-    <option name="height" value="1027" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1177" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -441,8 +508,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -472,6 +537,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -532,10 +599,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="1177" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25885227" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26144835" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -598,20 +665,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pg.log" />
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jaeyeonling/study/handler/DiscardServerHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -619,9 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -642,7 +696,14 @@
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
