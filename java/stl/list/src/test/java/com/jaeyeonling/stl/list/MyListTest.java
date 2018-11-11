@@ -22,8 +22,10 @@ public interface MyListTest {
 
     // @Test
     void T5_clear();
+
     // @Test
     void T6_get();
+
     // @Test
     void T7_toArray();
 }

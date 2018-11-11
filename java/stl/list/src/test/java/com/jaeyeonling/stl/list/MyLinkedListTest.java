@@ -10,14 +10,12 @@ import org.junit.runners.MethodSorters;
 public class MyLinkedListTest implements MyListTest {
     private MyList<Integer> list;
 
-    @Before
-    @Override
+    @Before @Override
     public void init() {
-        this.list = new MyArrayList<>();
+        this.list = new MyLinkedList<>();
     }
 
-    @Test
-    @Override
+    @Test @Override
     public void T1_add() {
         // given
         final int value = 100;
@@ -140,10 +138,13 @@ public class MyLinkedListTest implements MyListTest {
         this.list.add(300);
 
         // when
-        final Integer[] array = this.list.toArray();
+        final Object[] array = this.list.toArray();
 
         // then
         Assert.assertEquals(this.list.size(), array.length);
+        Assert.assertEquals(this.list.get(0), array[0]);
+        Assert.assertEquals(this.list.get(1), array[1]);
+        Assert.assertEquals(this.list.get(2), array[2]);
     }
 }
 

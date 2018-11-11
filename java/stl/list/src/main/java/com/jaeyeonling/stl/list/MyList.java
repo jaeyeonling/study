@@ -4,7 +4,7 @@ public interface MyList<E> {
     int size();
     boolean isEmpty();
 
-    E[] toArray();
+    Object[] toArray();
 
     boolean add(final E element);
     boolean addAll(final MyList<? extends E> list);

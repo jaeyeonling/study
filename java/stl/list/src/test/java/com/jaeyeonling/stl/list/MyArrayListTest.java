@@ -138,9 +138,12 @@ public class MyArrayListTest implements MyListTest {
         this.list.add(300);
 
         // when
-        final Integer[] array = this.list.toArray();
+        final Object[] array = this.list.toArray();
 
         // then
         Assert.assertEquals(this.list.size(), array.length);
+        Assert.assertEquals(this.list.get(0), array[0]);
+        Assert.assertEquals(this.list.get(1), array[1]);
+        Assert.assertEquals(this.list.get(2), array[2]);
     }
 }
