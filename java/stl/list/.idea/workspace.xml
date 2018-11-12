@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b100d39e-7122-4171-961a-301296877d77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/jaeyeonling/stl/list/MyLinkedList$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/jaeyeonling/stl/list/MyLinkedList$Node.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../netty/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../netty/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../netty/discard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../netty/discard/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../netty/discard/out/production/classes/com/jaeyeonling/study/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../netty/discard/out/production/classes/com/jaeyeonling/study/Application.class" afterDir="false" />
@@ -12,17 +10,6 @@
       <change beforePath="$PROJECT_DIR$/../../netty/discard/src/test/java/WeatherReportController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../netty/discard/src/test/java/WeatherReportController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../netty/discard/src/test/java/WeatherReportServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../netty/discard/src/test/java/WeatherReportServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaeyeonling/stl/list/MyArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/jaeyeonling/stl/list/MyArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaeyeonling/stl/list/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/jaeyeonling/stl/list/MyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaeyeonling/stl/list/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/jaeyeonling/stl/list/MyList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/jaeyeonling/stl/list/MyArrayListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/com/jaeyeonling/stl/list/MyArrayListTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/jaeyeonling/stl/list/MyLinkedListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/com/jaeyeonling/stl/list/MyLinkedListTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaeyeonling/stl/list/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jaeyeonling/stl/list/MyArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaeyeonling/stl/list/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jaeyeonling/stl/list/MyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaeyeonling/stl/list/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jaeyeonling/stl/list/MyList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/jaeyeonling/stl/list/MyArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/jaeyeonling/stl/list/MyArrayListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/jaeyeonling/stl/list/MyLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/jaeyeonling/stl/list/MyLinkedListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/jaeyeonling/stl/list/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/jaeyeonling/stl/list/MyListTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -42,23 +29,24 @@
     <session id="-1210653100">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="45" />
+          <entry key="java" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="45" />
+          <entry key="JAVA" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -78,39 +66,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/jaeyeonling/stl/list/MyListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state>
               <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jaeyeonling/stl/list/MyLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-105">
-              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+            <state relative-caret-position="666">
+              <caret line="85" column="22" selection-start-line="85" selection-start-column="22" selection-end-line="85" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jaeyeonling/stl/list/MyArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1545">
-              <caret line="113" column="12" selection-start-line="113" selection-start-column="12" selection-end-line="113" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/jaeyeonling/stl/list/MyLinkedListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state>
               <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#366#367#0" expanded="true" />
-                <element signature="e#414#415#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -119,7 +96,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
+            <state>
               <caret line="1053" column="8" selection-start-line="1053" selection-start-column="8" selection-end-line="1057" selection-end-column="22" />
             </state>
           </provider>
@@ -476,11 +453,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="75" />
-    <option name="y" value="-1700" />
-    <option name="width" value="1920" />
-    <option name="height" value="1177" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1081" />
+    <option name="y" value="-2137" />
+    <option name="width" value="3840" />
+    <option name="height" value="2137" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -551,11 +528,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541948366655" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541948559788" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -692,9 +669,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1081" y="-2137" width="3840" height="2137" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06424434" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06450763" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -703,7 +679,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32762837" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32762837" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -804,27 +780,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="1053" column="8" selection-start-line="1053" selection-start-column="8" selection-end-line="1057" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaeyeonling/stl/list/MyArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1545">
-          <caret line="113" column="12" selection-start-line="113" selection-start-column="12" selection-end-line="113" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaeyeonling/stl/list/MyLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jaeyeonling/stl/list/MyArrayListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -835,22 +790,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaeyeonling/stl/list/MyArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jaeyeonling/stl/list/MyListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state>
           <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jaeyeonling/stl/list/MyLinkedListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state>
           <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1053" column="8" selection-start-line="1053" selection-start-column="8" selection-end-line="1057" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaeyeonling/stl/list/MyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="85" column="22" selection-start-line="85" selection-start-column="22" selection-end-line="85" selection-end-column="22" />
         </state>
       </provider>
     </entry>
