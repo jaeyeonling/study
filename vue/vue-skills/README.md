@@ -1,10 +1,16 @@
+![Screen Shot](./screenshot.png)
+
+
+
 # vue-skills
-```
-vee-validate
-vue-router
-```
+
+1. vee-validate
+2. vue-router
+
+
 
 ## Project setup
+
 ```
 npm install
 ```
