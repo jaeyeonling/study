@@ -6,7 +6,6 @@ import (
 )
 
 func Index(strs []string, value string) int {
-
 	for i, str := range strs {
 		if str == value {
 			return i
