@@ -1,7 +1,7 @@
-# Examples
+# Web Examples
 
 ### Reference
 
-[Go by Example](https://gobyexample.com/)
+[Go Web Example](https://gowebexamples.com/)
 [Go Official Documentation](https://golang.org/doc/)
 
