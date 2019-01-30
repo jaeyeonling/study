@@ -18,6 +18,6 @@
    1. __[Vue Skills](./vue/vue-skills)__
 3. __[Go](./go)__
    1. __[Examples](./go/examples)__
-   2. __[Web Examples](./go/web-examples)__
-   3. __[Learn X in Y Minutes](./go/learnxinyminutes)__
+   2. __[Web Examples](./go/examples)__
+   3. __[Learn X in Y Minutes](./go/examples)__
 
