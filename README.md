@@ -20,4 +20,5 @@
    1. __[Examples](./go/examples)__
    2. __[Web Examples](./go/web-examples)__
    3. __[Learn X in Y Minutes](./go/learnxinyminutes)__
+   4. __[Library](./go/library)__
 
