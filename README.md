@@ -21,4 +21,6 @@
    2. __[Web Examples](./go/web-examples)__
    3. __[Learn X in Y Minutes](./go/learnxinyminutes)__
    4. __[Library](./go/library)__
+      1. __[Gin](./go/library/gin)__
+
 
