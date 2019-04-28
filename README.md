@@ -27,7 +27,7 @@
 5. [VCS](./vcs)
    1. [Git](./vcs/git)
    2. [Github](./vcs/github)
-6. [C#](./c#)
-   1. [Examples](./c#/examples)
-      1. [Hello World](./c#/examples/HelloWorld)
+6. [C#](./c%23)
+   1. [Examples](./c%23/examples)
+      1. [Hello World](./c%23/examples/HelloWorld)
 
