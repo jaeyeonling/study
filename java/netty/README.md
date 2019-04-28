@@ -1,16 +1,5 @@
 # Netty
 
-Netty 4.1.+ 
-
-
-
-1. __[Discard](./java/netty/discard)__
-2. __[Echo Server](./java/netty/echo-server)__
-3. __[Echo Client](./java/netty/echo-client)__
-
-
-
----
-
-
-
+1. [Discard](./java/netty/discard)
+2. [Echo Server](./java/netty/echo-server)
+3. [Echo Client](./java/netty/echo-client)

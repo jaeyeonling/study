@@ -1,14 +1,10 @@
 # Java
 
-JDK: 10
-
-
-
-1. __[Netty](./netty)__
-   1. __[Discard](./netty/discard)__
-   2. __[Echo Server](./netty/echo-server)__
-   3. __[Echo Client](./netty/echo-client)__
-2. __[Server](./server)__
-   1. __[Blocking Server](./server/blocking-server)__
-   2. __[Non Blocking Server](./server/non-blocking-server)__
+1. [Netty](./netty)
+   1. [Discard](./netty/discard)
+   2. [Echo Server](./netty/echo-server)
+   3. [Echo Client](./netty/echo-client)
+2. [Server](./server)
+   1. [Blocking Server](./server/blocking-server)
+   2. [Non Blocking Server](./server/non-blocking-server)
 

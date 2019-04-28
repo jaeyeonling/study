@@ -1,11 +1,7 @@
 # Server
 
-JDK: 10
-
-
-
-1. __[Blocking Server](./blocking-server)__
-2. __[Non Blocking Server](./non-blocking-server)__
+1. [Blocking Server](./blocking-server)
+2. [Non Blocking Server](./non-blocking-server)
 
 ---
 

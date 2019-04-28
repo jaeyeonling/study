@@ -1,5 +1,5 @@
 # Library
 
 
-1. __[Gin](./gin)__
+1. [Gin](./gin)
 

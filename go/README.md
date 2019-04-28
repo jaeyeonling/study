@@ -1,11 +1,9 @@
 # Go
 
-Go Version: 1.11
 
-
-1. __[Examples](./examples)__
-2. __[Web Examples](./web-examples)__
-3. __[Learn X in Y Minutes](./learnxinyminutes)__
-4. __[Library](./library)__
-	1. __[Gin](./library/gin)__
+1. [Examples](./examples)
+2. [Web Examples](./web-examples)
+3. [Learn X in Y Minutes](./learnxinyminutes)
+4. [Library](./library)
+	1. [Gin](./library/gin)
 

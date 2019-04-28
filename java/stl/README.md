@@ -6,7 +6,7 @@
 
 
 
-1. __[List](./list)__
-   1. __[ArrayList](./list/src/main/java/com/jaeyeonling/stl/list/MyArrayList.java)__
-   2. __[LinkedList](./list/src/main/java/com/jaeyeonling/stl/list/MyLinkedList.java)__
+1. [List](./list)
+   1. [ArrayList](./list/src/main/java/com/jaeyeonling/stl/list/MyArrayList.java)
+   2. [LinkedList](./list/src/main/java/com/jaeyeonling/stl/list/MyLinkedList.java)
 

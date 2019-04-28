@@ -1,8 +1,10 @@
-![Screen Shot](./screenshot.png)
+# Vue Skills
+
+![1](./1.png)
 
 
 
-# vue-skills
+## Dependency
 
 1. vee-validate
 2. vue-router
