@@ -31,5 +31,5 @@
    1. [Examples](./c%23/examples)
       1. [Hello World](./c%23/examples/HelloWorld)
 7. IDE
-   1. IndelliJ
+   1. Intellij
       1. [IntelliJ Key Map](https://github.com/Jaeyeonling/intellij-keymap)
