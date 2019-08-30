@@ -16,6 +16,7 @@
       1. [List](./java/stl/list)
    4. [Clean Code](https://github.com/Jaeyeonling/clean-code)
    5. [Design Pattern](https://github.com/Jaeyeonling/design-pattern)
+   6. [Vert.x](./java/vertx)
 2. [Vue](./vue)
    1. [Vue Skills](./vue/vue-skills)
 3. [Go](./go)
