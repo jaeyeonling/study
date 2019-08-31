@@ -1,0 +1,13 @@
+name: http-server
+version: 0.1.0
+
+authors:
+  - Jaeyeonling <jaeyeonling@gmail.com>
+
+targets:
+  http-server:
+    main: src/http-server.cr
+
+crystal: 0.30.1
+
+license: MIT
