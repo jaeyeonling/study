@@ -26,7 +26,7 @@
    4. [Library](./go/library)
       1. [Gin](./go/library/gin)
 4. [Node.js](./nodejs)
-   1. [Grahql Server](./nodejs/graphql-server)
+   1. [Graphql Server](./nodejs/graphql-server)
    2. [Youtube Clone](https://github.com/Jaeyeonling/youtube-clone)
 5. [VCS](./vcs)
    1. [Git](./vcs/git)
@@ -37,3 +37,5 @@
 7. IDE
    1. Intellij
       1. [IntelliJ Key Map](https://github.com/Jaeyeonling/intellij-keymap)
+8. [Crystal](./crystal)
+    1. [Hello World](./crystal/hello-world)
