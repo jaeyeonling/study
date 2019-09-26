@@ -1,0 +1,42 @@
+plugins {
+    id 'java'
+    id 'idea'
+}
+
+group 'com.jaeyeonling.study'
+version '0.0.1'
+
+ext {
+    javaVersion = JavaVersion.VERSION_12
+
+    versions = [
+            'lombok'                : '1.18.+',
+            'junit'                 : '5.5.2',
+            'junit-platform'        : '1.5.2',
+            'cglib'                 : '3.3.+',
+            'byte-buddy'             : '1.10.+',
+    ]
+}
+
+sourceCompatibility = javaVersion
+
+repositories {
+    mavenCentral()
+}
+
+test {
+    useJUnitPlatform()
+}
+
+dependencies {
+    compileOnly(group: 'org.projectlombok', name: 'lombok', version: versions['lombok'])
+    annotationProcessor(group: 'org.projectlombok', name: 'lombok', version: versions['lombok'])
+
+    testCompile(group: 'org.junit.platform', name: 'junit-platform-commons', version: versions['junit-platform'])
+    testCompile(group: 'org.junit.jupiter', name: 'junit-jupiter-api', version: versions['junit'])
+    testCompile(group: 'org.junit.jupiter', name: 'junit-jupiter-params', version: versions['junit'])
+    testRuntimeOnly(group: 'org.junit.jupiter', name: 'junit-jupiter-engine', version: versions['junit'])
+
+    compile(group: 'cglib', name: 'cglib', version: versions['cglib'])
+    compile(group: 'net.bytebuddy', name: 'byte-buddy', version: versions['byte-buddy'])
+}
