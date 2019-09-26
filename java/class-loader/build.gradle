@@ -1,0 +1,16 @@
+plugins {
+    id 'java'
+}
+
+group 'com.jaeyeonling.study'
+version '0.0.1'
+
+sourceCompatibility = JavaVersion.VERSION_12
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
